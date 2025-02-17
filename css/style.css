@@ -3,6 +3,9 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }
+header{
+    font-family: "Raleway", sans-serif;
+}
 h1 {
   font-size: 56px;
   line-height: 1.07;
@@ -42,4 +45,26 @@ h3 {
 }
 .sez-zse{
     color: #2e2f42
+}
+.sab-bas{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+address{
+    font-style: normal;
+}
+section{
+    background-color: #2e2f42;
+}
+button:hover{
+background-color: #404BBF;
+}
+button:focus{
+    background-color: #404BBF;
+    cursor: pointer
+}
+.bkz-kbz{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
