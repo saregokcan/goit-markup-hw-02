@@ -45,7 +45,7 @@ h3 {
     font-family: "Raleway", sans-serif;
 }
 .sez-zse{
-    color: #2e2f42;
+        color: #2e2f42;
 }
 .sab-bas{
     font-weight: 500;
@@ -101,5 +101,8 @@ h2{
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2e2f42;
+}
+footer{
     color: #2e2f42;
 }
