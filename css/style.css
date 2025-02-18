@@ -87,5 +87,19 @@ a:focus{
 a{
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
+}
+.sbe-eba{
+    background-color: #2e2f42;
+}
+.sbe-ebf{
+    background-color: #f4f4fd;
+}
+h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
