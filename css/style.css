@@ -42,9 +42,10 @@ h3 {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
 }
 .sez-zse{
-    color: #2e2f42
+    color: #2e2f42;
 }
 .sab-bas{
     font-weight: 500;
@@ -74,4 +75,12 @@ a:hover{
 }
 a:focus{
     color: #404bbf;
+}
+.olk-klo{
+    color: #2e2f42;
+}
+.plm-mlp{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
