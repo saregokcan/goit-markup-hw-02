@@ -70,8 +70,6 @@ address{
 button:hover{
 background-color: #404BBF;
 }
-
-
 button:focus{
   background-color: #404BBF;
   cursor: pointer
@@ -83,8 +81,6 @@ button:focus{
 a:hover{
   color: #404bbf;
 }
-
-
 a:focus{
   color: #404bbf;
 }
@@ -135,7 +131,6 @@ p {
     color: #434455;
     font-size: 16px;
 }
-
 .logo-sinif {
   font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -147,8 +142,3 @@ p {
 .bus-sub {
   color: #434455;
 }
-
-
-
-
-
