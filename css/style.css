@@ -36,7 +36,6 @@ a:focus {
 a:hover {
   color: #404bbf;
 }
-
 h3 {
     font-weight: 500;
     font-size: 20px;
@@ -44,7 +43,6 @@ h3 {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .seg-gez{
     font-weight: 700;
     font-size: 18px;
@@ -54,7 +52,6 @@ h3 {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
 }
-
 .sez-zse{
         color: #2e2f42;
 }
@@ -73,7 +70,6 @@ address{
 button:hover{
 background-color: #404BBF;
 }
-
 button:focus{
     background-color: #404BBF;
     cursor: pointer
@@ -85,7 +81,6 @@ button:focus{
 a:hover{
     color: #404bbf;
 }
-
 a:focus{
     color: #404bbf;
 }
@@ -97,21 +92,19 @@ a:focus{
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
-
 a{
     font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: ##2e2f42;
+  color: #2e2f42;
   font-size: 16px;
 }
 .sbe-eba{
     background-color: #2e2f42;
 }
 .sbe-ebf{
-    bbackground-color: #FFFFFF;
+    background-color: #f4f4fd;
 }
-
 h2{
     font-size: 36px;
     line-height: 1.11;
@@ -120,7 +113,6 @@ h2{
     text-transform: capitalize;
     color: #2e2f42;
 }
-
 footer{
     color: #2e2f42;
     background-color: #2e2f42;
