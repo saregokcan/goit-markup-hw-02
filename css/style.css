@@ -112,6 +112,7 @@ h2{
   text-transform: capitalize;
   color: #2e2f42;
 }
+
 footer{
   color: #2e2f42;
   background-color: #2e2f42;
@@ -122,6 +123,7 @@ footer{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+
 
 .alt-bilgi .footer-p {
   color: #f4f4fd;
