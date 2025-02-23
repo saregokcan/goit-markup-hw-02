@@ -84,6 +84,7 @@ a:hover{
 a:focus{
     color: #404bbf;
 }
+
 .olk-klo{
     color: #2e2f42;
 }
@@ -92,6 +93,7 @@ a:focus{
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
 a{
     font-weight: 500;
   line-height: 1.5;
@@ -123,7 +125,7 @@ footer{
     letter-spacing: 0.03em;
     text-transform: uppercase;
   }
-  
+
   .alt-bilgi .footer-p {
     color: #f4f4fd;
 }
@@ -134,7 +136,7 @@ p {
     color: #434455;
     font-size: 16px;
   }
-  
+
   .logo-sinif {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
