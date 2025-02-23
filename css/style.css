@@ -93,10 +93,11 @@ a:focus{
   letter-spacing: 0.02em;
 }
 a{
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  font-size: 16px
+  font-size: 16px;
 }
 .sbe-eba{
   background-color: #2e2f42;
@@ -112,7 +113,6 @@ h2{
   text-transform: capitalize;
   color: #2e2f42;
 }
-
 footer{
   color: #2e2f42;
   background-color: #2e2f42;
@@ -123,8 +123,6 @@ footer{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-
-
 .alt-bilgi .footer-p {
   color: #f4f4fd;
 }
@@ -135,7 +133,6 @@ p {
   color: #434455;
   font-size: 16px;
 }
-
 .logo-sinif {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
