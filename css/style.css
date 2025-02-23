@@ -57,9 +57,9 @@ h3 {
 }
 .sab-bas{
   font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
   }
 address{
   font-style: normal;
@@ -96,22 +96,16 @@ a:focus{
   color: #F4F4FD;
   letter-spacing: 0.02em;
 }
-
-
 a{
-  font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
-font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .sbe-eba{
-    background-color: #FFFFFF;
-    
-
+  background-color: #2e2f42;
 }
 .sbe-ebf{
-  background-color: #FFFFFF;
+  background-color: #f4f4fd;
 }
 h2{
   font-size: 36px;
@@ -123,32 +117,32 @@ h2{
 }
 footer{
   color: #2e2f42;
-  background-color: #2e2f42;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+    background-color: #2e2f42;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .alt-bilgi .footer-p {
   color: #f4f4fd;
 }
 p {
   color: #f4f4fd;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-  font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-size: 16px;
 }
 
 .logo-sinif {
   font-family: 'Raleway', sans-serif;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  color: #4d5ae5;
-  font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+    font-size: 18px;
 }
 .bus-sub {
   color: #434455;
